@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: My Blog
+name: Things of Interest
 
 # Name of the author
 author: Abdullah Bodur
@@ -26,9 +26,9 @@ footer-links:
   flickr:
   github: abdullahbodur
   instagram:
-  linkedin: 
+  linkedin: bodura 
   pinterest:
-  rss: rss
+  rss:
   twitter: abdullahbodur
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
